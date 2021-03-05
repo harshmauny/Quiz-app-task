@@ -1,0 +1,13 @@
+.card {
+    margin: 25vh auto 0;
+    padding: 1rem;
+    width: 70%;
+}
+
+.login-bottom-text {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
